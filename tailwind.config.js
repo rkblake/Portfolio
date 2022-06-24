@@ -4,11 +4,8 @@ module.exports = {
   theme: {
     extend: {
       gridTemplateColumns: {
-        '2': '50px 1fr'
+        '2': '40px 1fr'
       },
-      fontFamily: {
-        'rajdhani': ['"Rajdhani"','mono']
-      }
     },
   },
   plugins: [],
